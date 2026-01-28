@@ -19,13 +19,13 @@ Download the `.dmg` installer from [Releases](https://github.com/planetsamson/de
 
 **Debian/Ubuntu (.deb):**
 ```bash
-sudo dpkg -i planetdan-linux-x64.deb
+sudo dpkg -i planetsamson-linux-x64.deb
 ```
 
 **AppImage:**
 ```bash
-chmod +x planetdan-linux-x64.AppImage
-./planetdan-linux-x64.AppImage
+chmod +x planetsamson-linux-x64.AppImage
+./planetsamson-linux-x64.AppImage
 ```
 
 ### Windows
